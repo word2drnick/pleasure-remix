@@ -1,0 +1,78 @@
+body {
+    background-color: #AB873C;
+    background-image: url(https://o.remove.bg/downloads/d28378d9-7493-40be-b3be-09ac8d71af05/tumblr_obp21qrzgS1u6ll4mo1_1280-removebg-preview.png);
+    background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:right;
+color:#EADECD;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 16px;
+}
+h1, h3 {
+    text-align: center;
+    max-width: 600px;
+    margin: 1em auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+form {
+    width: 50vw;
+    max-width: 600px;
+    min-width: 350px;
+    margin: 0 auto;
+    padding-bottom: 60px;
+   
+}
+input, textarea, select {
+    width: 100%;
+    margin: 10px 0 0 0;
+    min-height: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 3px solid #530F36;
+    background-color:#BC9F65;
+    color: #EADECD;
+    font-size: 16px;
+    border-radius: 16px;
+    box-sizing: border-box;
+   
+}
+.inline {
+    width: unset;
+    margin: 0 5px 0 0;
+    vertical-align: middle;
+}
+.submit {
+    width: 100%;
+    margin: 0 5px 0 0;
+    vertical-align: middle;
+}
+
+label {
+display: block;
+margin: 15px 0 0 0;
+}
+fieldset {
+	border: none;
+	padding: 2rem 0;
+	border-bottom: 1px solid #EEE7D8;
+}
+
+fieldse:last-of-type {
+border-bottom: none;
+
+}
+input[type=submit] {
+display: block;
+color: #EADECD;
+margin: 1em auto;
+font-size: 18px;
+max-width: 400px;
+
+}
+
+a{
+
+    color: darkslategray;
+}
